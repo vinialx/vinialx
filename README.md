@@ -21,11 +21,11 @@
 
 ---
 
-### `📊 stats`
+<h3 align="center">📊 <code>stats</code></h3>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinialx&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&text_color=cccccc&icon_color=999999&bg_color=00000000" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinialx&show_icons=true&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=999999&bg_color=00000000" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinialx&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=00000000" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=vinialx&hide_border=true&background=00000000&stroke=666666&ring=999999&fire=cccccc&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=cccccc&sideLabels=999999&dates=777777" alt="GitHub Streak"/>
@@ -34,11 +34,11 @@
 
 ---
 
-### `stack`
+<h3 align="center">🛠️ <code>stack</code></h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,docker,linux,postgres,mysql&theme=dark" alt="stack icons"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,docker,linux,postgres,mysql,neovim,nix,bun&theme=dark" alt="stack icons"/>
 <br/>
 <!-- skillicons.dev doesn't have an MSSQL icon, so it stays as a badge -->
 <img src="https://img.shields.io/badge/-SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -47,7 +47,7 @@
 
 ---
 
-### `currently learning`
+<h3 align="center">📚 <code>currently learning</code></h3>
 
 <div align="center">
 
@@ -57,21 +57,11 @@
 
 ---
 
-### `want to learn`
+<h3 align="center">🎯 <code>want to learn</code></h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,rabbitmq&theme=dark" alt="want to learn icons"/>
-
-</div>
-
----
-
-### `interests`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github,nodejs,bash&theme=dark" alt="interests icons"/>
+<img src="https://skillicons.dev/icons?i=rust,rabbitmq,kafka,redis,kubernetes,aws&theme=dark" alt="want to learn icons"/>
 
 </div>
 
