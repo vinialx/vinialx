@@ -1,10 +1,5 @@
 <div align="center">
 
-<!--
-  1) Generate both files at https://gh.crafter.run/ for the user vinialx
-  2) Download dark_mode.svg and light_mode.svg
-  3) Put both inside /assets in the vinialx/vinialx repo
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/light_mode.svg" />
@@ -14,7 +9,6 @@
 </div>
 
 <h1 align="center"><code>hi, i'm vinicius</code></h1>
-
 <h3 align="center"><code>developer · exploring new stacks and projects</code></h3>
 
 <p align="center">
@@ -27,7 +21,7 @@
 
 ---
 
-### `📊 Stats`
+### `📊 stats`
 
 <div align="center">
 
@@ -44,10 +38,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,docker,linux&theme=dark" alt="stack icons"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,git,docker,linux,postgres,mysql&theme=dark" alt="stack icons"/>
 <br/>
-<img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<!-- skillicons.dev doesn't have an MSSQL icon, so it stays as a badge -->
 <img src="https://img.shields.io/badge/-SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </div>
@@ -58,8 +51,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=c,go&theme=dark" alt="currently learning icons"/>
 
 </div>
 
@@ -69,8 +61,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/-RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=rust,rabbitmq&theme=dark" alt="want to learn icons"/>
 
 </div>
 
@@ -80,9 +71,7 @@
 
 <div align="center">
 
-![Badge](https://img.shields.io/badge/-Open%20Source-333333?style=for-the-badge&logo=github&logoColor=white)
-![Badge](https://img.shields.io/badge/-Backend-333333?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Badge](https://img.shields.io/badge/-Automation-333333?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=github,nodejs,bash&theme=dark" alt="interests icons"/>
 
 </div>
 
