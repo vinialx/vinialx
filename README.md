@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,rabbitmq,kafka,redis,kubernetes,aws&theme=dark" alt="want to learn icons"/>
+<img src="https://skillicons.dev/icons?i=lua,rust,rabbitmq,kafka,redis,kubernetes,aws&theme=dark" alt="want to learn icons"/>
 
 </div>
 
